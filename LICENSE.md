@@ -1,4 +1,4 @@
-# 
+# 终极 JetBrains Rider 预设 Mac OS版 | 极速 JetBrains Rider 预设 PC Windows版。集成 卷管理 和 语法高亮，跨平台性能最大化。
 
 
 
